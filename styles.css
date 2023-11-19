@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+}
+
+.container{
+    width:60%;
+    margin:0 auto;
+    border:2px solid red;
+    padding:20px;
+}
+
+h1,p,ul,li,button,a{
+    border:2px solid red;
+}
+
+ul{
+    padding:5px;
+}
+
+button{
+    height:30px;
+    width: 60px;
+}
+
+a{
+    display:inline-block;
+    height:30px;
+    padding:4px;
+}
